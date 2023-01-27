@@ -4,6 +4,11 @@ body {
     font-family: 'Lato';
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+  }
+  
 .item {
     background-color: white;
     padding: 15px;
